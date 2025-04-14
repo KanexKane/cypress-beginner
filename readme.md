@@ -11,3 +11,11 @@
 ```
 npm install
 ```
+
+## ตั้งค่า Telegram Bot
+
+เปลี่ยน botToken กับ chatId เป็นของเรา
+
+## ตั้งค่า Google Sheets
+
+อัพเดทไฟล์ credentials.json และอัพเดท SHEET_ID
